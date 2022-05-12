@@ -9,7 +9,7 @@ Get themes.zip (exported from Ubuntu 20.4) and extract to /usr/share/themes/. In
 ```
 sudo bash
 cd /usr/share/
-wget https://github.com/anldori/Mixed-theme-for-Ubuntu-22.04/raw/main/themes.zip
+wget https://github.com/anldori/Mixed-Yaru-theme-for-Ubuntu-22.04/raw/main/themes.zip
 7z x themes.zip
 ```
 Allow to overwrite all the files.
