@@ -1,11 +1,11 @@
 # Mixed theme for Ubuntu 22.04
-Yaru mixed theme from Ubuntu 20.04 for 21.10 and 22.04
+Yaru mixed theme for Ubuntu 21.10 and 22.04.
 
-**Usage**
+**Usage:**
 
 First, switch to Dark theme on your Ubuntu.
 
-Get themes.zip (exported from Ubuntu 20.4) and extract to /usr/share/themes/. Install 7zip or any similar tool to extract.
+Get themes.zip (exported from Ubuntu 20.04) and extract to /usr/share/themes/. Install 7zip or any similar tool to extract.
 ```
 sudo bash
 cd /usr/share/
