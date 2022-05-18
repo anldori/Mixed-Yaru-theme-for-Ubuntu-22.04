@@ -1,5 +1,5 @@
 # Mixed theme for Ubuntu 22.04
-Yaru mixed theme for Ubuntu 21.10 and 22.04.
+
 
 **Usage:**
 
